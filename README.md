@@ -1,7 +1,8 @@
 # python3_flask_demo
 ## learning in windows
 
-pip install Django==2.0.6
+
+#### pip install -r requirements.txt
 
 1、mkdir Code <br>
 2、django-admin startproject mysite <br>
@@ -16,3 +17,5 @@ pip install Django==2.0.6
 setup <br>
 python manage.py runserver  <br>
 
+
+#### pip freeze > requirements.txt
